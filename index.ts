@@ -1,3 +1,4 @@
+#!  /usr/bin/env node
 import inquirer from "inquirer";
 let randNumber = Math.floor(Math.random()*100+1);
 let count = 10;
